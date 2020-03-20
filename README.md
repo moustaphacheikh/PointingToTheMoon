@@ -1,6 +1,6 @@
 # If you want to use this theme
 
-Please read [this link](https://yk-liu.github.io/jekyll/Jekyll-Build.html#what-should-i-modify). 
+Please read [this link](https://yk-liu.github.io/2018/Jekyll-Build/#what-should-i-modify). 
 
 I **strongly** recommand that you use this repo that I specially prepared for you! It has all the features that my personal webiste has and has no personal information of me. You can fork that repo or leave a star if you like. 
 
